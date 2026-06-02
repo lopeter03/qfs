@@ -1,0 +1,13 @@
+workflow for qfs
+
+1. code (add quality stack)
+2. uat (test plan + test result)
+3. brs, fs, ds
+
+all software engineering practice, franwork , design pattern, log , trace  and all other methology used in modern software engineering book that make high quality, error free pgm.
+
+if u have any short term, pls provde bracket long term too e.g. HKDF (.....)
+
+give me 5 steps, i need review fully before code
+
+

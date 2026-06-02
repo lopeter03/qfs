@@ -1,0 +1,121 @@
+2026-06-01 15:06:43,577 - INFO - Genesis block created
+2026-06-01 15:06:43,592 - INFO - Blockchain integrity verified
+2026-06-01 15:08:00,083 - INFO - Blockchain integrity verified
+2026-06-01 15:08:06,380 - INFO - Blockchain integrity verified
+2026-06-01 15:08:10,689 - INFO - Blockchain integrity verified
+2026-06-01 15:08:14,812 - INFO - Transaction added: {'sender': 'PETER', 'receiver': 'CC', 'amount': 1000.0, 'asset_type': 'Gold', 'audit_timestamp': '2026-06-01 15:08:14'}
+2026-06-01 15:08:14,815 - INFO - Blockchain integrity verified
+2026-06-01 15:08:20,544 - INFO - Blockchain integrity verified
+2026-06-01 15:08:24,727 - INFO - Block 1 mined with PoS, hash: b8cff6ae613fd48fd0910b9a215753ebf4bf39e951ba77e1f8819a09606bc8cb
+2026-06-01 15:08:24,743 - INFO - Blockchain integrity verified
+2026-06-01 15:15:25,444 - INFO - Genesis block created
+2026-06-01 15:15:25,462 - INFO - Blockchain integrity verified
+2026-06-01 15:15:29,654 - INFO - Blockchain integrity verified
+2026-06-01 15:15:31,219 - INFO - Blockchain integrity verified
+2026-06-01 15:15:34,964 - INFO - Blockchain integrity verified
+2026-06-01 15:15:36,048 - INFO - Blockchain integrity verified
+2026-06-01 15:15:37,468 - INFO - Transaction added: {'sender': 'YY', 'receiver': 'JJ', 'amount': 100.0, 'asset_type': 'Commodity', 'audit_timestamp': '2026-06-01 15:15:37'}
+2026-06-01 15:15:37,472 - INFO - Blockchain integrity verified
+2026-06-01 15:15:51,703 - INFO - Block 1 mined with PoW, hash: b8df7a519882622b3485976e261dd663f0e629810e285ff38249058de1b0243c
+2026-06-01 15:15:51,708 - INFO - Blockchain integrity verified
+2026-06-02 10:53:19,228 - INFO - Genesis block created
+2026-06-02 10:53:19,243 - INFO - Blockchain integrity verified
+2026-06-02 10:53:53,264 - INFO - Genesis block created
+2026-06-02 10:53:53,278 - INFO - Blockchain integrity verified
+2026-06-02 10:54:09,059 - INFO - Blockchain integrity verified
+2026-06-02 10:54:12,591 - INFO - Blockchain integrity verified
+2026-06-02 10:54:20,948 - INFO - Blockchain integrity verified
+2026-06-02 10:54:23,777 - INFO - Transaction added: {'sender': 'DAVID', 'receiver': 'MARY', 'amount': 1000.0, 'asset_type': 'Gold', 'audit_timestamp': '2026-06-02 10:54:23'}
+2026-06-02 10:54:23,781 - INFO - Blockchain integrity verified
+2026-06-02 10:54:29,139 - INFO - Blockchain integrity verified
+2026-06-02 10:54:35,997 - INFO - Block 1 mined with PoS, hash: 5fe303c93268f4a2bfe992b80b3907b385fac07c1c7162a8afada08f4f331345
+2026-06-02 10:54:36,001 - INFO - Blockchain integrity verified
+2026-06-02 10:55:02,627 - INFO - Blockchain integrity verified
+2026-06-02 10:55:02,722 - ERROR - Transaction failed: Max Transaction Limit violated: Amount exceeds Basel III threshold
+2026-06-02 10:55:02,726 - INFO - Blockchain integrity verified
+2026-06-02 10:56:26,106 - INFO - Blockchain integrity verified
+2026-06-02 10:56:26,192 - ERROR - Transaction failed: Sender Required violated: Sender cannot be empty
+2026-06-02 10:56:26,196 - INFO - Blockchain integrity verified
+2026-06-02 10:56:39,715 - INFO - Blockchain integrity verified
+2026-06-02 10:56:42,404 - INFO - Blockchain integrity verified
+2026-06-02 10:56:42,511 - ERROR - Transaction failed: Receiver Required violated: Receiver cannot be empty
+2026-06-02 10:56:42,514 - INFO - Blockchain integrity verified
+2026-06-02 10:56:55,655 - INFO - Blockchain integrity verified
+2026-06-02 10:59:10,238 - INFO - Genesis block created
+2026-06-02 10:59:10,256 - INFO - Blockchain integrity verified
+2026-06-02 10:59:14,119 - INFO - Blockchain integrity verified
+2026-06-02 10:59:15,782 - INFO - Blockchain integrity verified
+2026-06-02 10:59:19,928 - INFO - Blockchain integrity verified
+2026-06-02 10:59:21,890 - INFO - Blockchain integrity verified
+2026-06-02 10:59:23,504 - INFO - Transaction added: {'sender': 'H', 'receiver': 'J', 'amount': 1000.0, 'asset_type': 'Bond', 'audit_timestamp': '2026-06-02 10:59:23'}
+2026-06-02 10:59:23,508 - INFO - Blockchain integrity verified
+2026-06-02 11:01:27,427 - INFO - Genesis block created
+2026-06-02 11:01:27,441 - INFO - Blockchain integrity verified
+2026-06-02 11:01:30,013 - INFO - Blockchain integrity verified
+2026-06-02 11:01:31,628 - INFO - Blockchain integrity verified
+2026-06-02 11:01:34,932 - INFO - Blockchain integrity verified
+2026-06-02 11:03:15,450 - INFO - Genesis block created
+2026-06-02 11:03:15,466 - INFO - Blockchain integrity verified
+2026-06-02 11:03:18,310 - INFO - Blockchain integrity verified
+2026-06-02 11:03:20,154 - INFO - Blockchain integrity verified
+2026-06-02 11:03:23,703 - INFO - Blockchain integrity verified
+2026-06-02 11:03:27,236 - INFO - Blockchain integrity verified
+2026-06-02 11:03:28,547 - ERROR - Transaction failed: Valid Asset Type violated: Invalid asset type (only Gold, Commodity, Currency allowed)
+2026-06-02 11:03:28,552 - INFO - Blockchain integrity verified
+2026-06-02 11:03:31,299 - INFO - Blockchain integrity verified
+2026-06-02 11:03:32,234 - INFO - Transaction added: {'sender': 'H', 'receiver': 'J', 'amount': 100.0, 'asset_type': 'Gold', 'audit_timestamp': '2026-06-02 11:03:32'}
+2026-06-02 11:03:32,237 - INFO - Blockchain integrity verified
+2026-06-02 11:03:34,427 - INFO - Blockchain integrity verified
+2026-06-02 11:03:35,317 - INFO - Transaction added: {'sender': 'H', 'receiver': 'J', 'amount': 100.0, 'asset_type': 'Commodity', 'audit_timestamp': '2026-06-02 11:03:35'}
+2026-06-02 11:03:35,320 - INFO - Blockchain integrity verified
+2026-06-02 11:03:37,253 - INFO - Blockchain integrity verified
+2026-06-02 11:03:37,900 - INFO - Transaction added: {'sender': 'H', 'receiver': 'J', 'amount': 100.0, 'asset_type': 'Currency', 'audit_timestamp': '2026-06-02 11:03:37'}
+2026-06-02 11:03:37,904 - INFO - Blockchain integrity verified
+2026-06-02 11:03:39,978 - INFO - Blockchain integrity verified
+2026-06-02 11:03:40,583 - ERROR - Transaction failed: Valid Asset Type violated: Invalid asset type (only Gold, Commodity, Currency allowed)
+2026-06-02 11:03:40,587 - INFO - Blockchain integrity verified
+2026-06-02 11:04:36,546 - INFO - Blockchain integrity verified
+2026-06-02 11:04:36,963 - INFO - Block 1 mined with PoW, hash: eb8cf558d7de997fa678219185933acca67f37cf3650fb78db35f24426bffae1
+2026-06-02 11:04:37,188 - INFO - Transaction added: {'sender': 'H', 'receiver': 'J', 'amount': 100.0, 'asset_type': 'Gold', 'audit_timestamp': '2026-06-02 11:04:37'}
+2026-06-02 11:04:37,194 - INFO - Blockchain integrity verified
+2026-06-02 11:04:49,894 - INFO - Block 2 mined with PoW, hash: aec3463c8c4235daa0386ea999c0ebeaf7ec849d3212e4c6e02c6af6af64cb51
+2026-06-02 11:04:49,897 - INFO - Blockchain integrity verified
+2026-06-02 11:06:48,430 - INFO - Genesis block created
+2026-06-02 11:06:48,444 - INFO - Blockchain integrity verified
+2026-06-02 11:06:53,715 - INFO - Blockchain integrity verified
+2026-06-02 11:06:56,838 - INFO - Blockchain integrity verified
+2026-06-02 11:06:59,634 - INFO - Blockchain integrity verified
+2026-06-02 11:07:02,707 - INFO - Transaction added: {'sender': 'DAVID', 'receiver': 'MARY', 'amount': 1000.0, 'asset_type': 'Gold', 'audit_timestamp': '2026-06-02 11:07:02'}
+2026-06-02 11:07:02,710 - INFO - Blockchain integrity verified
+2026-06-02 11:07:04,546 - INFO - Blockchain integrity verified
+2026-06-02 11:07:07,482 - INFO - Block 1 mined with PoS, hash: 6a640bdb0d33cbfa542ce6fbaf8c72a5ee560662cbf1ad8d6147a5ec9a59f67b
+2026-06-02 11:07:07,487 - INFO - Blockchain integrity verified
+2026-06-02 13:28:14,881 - INFO - Genesis block created
+2026-06-02 13:28:14,888 - INFO - Blockchain integrity verified
+2026-06-02 15:04:58,009 - INFO - Blockchain integrity verified
+2026-06-02 15:05:00,565 - INFO - Blockchain integrity verified
+2026-06-02 15:05:03,923 - INFO - Blockchain integrity verified
+2026-06-02 15:05:27,119 - INFO - Transaction added: {'sender': 'Alice', 'receiver': 'Bob', 'amount': 1000.0, 'asset_type': 'Gold', 'audit_timestamp': '2026-06-02 15:05:27'}
+2026-06-02 15:05:27,124 - INFO - Blockchain integrity verified
+2026-06-02 15:12:34,074 - INFO - Transaction added: {'sender': 'Alice', 'receiver': 'Bob', 'amount': 1000.0, 'asset_type': 'Gold', 'audit_timestamp': '2026-06-02 15:12:34'}
+2026-06-02 15:12:34,112 - INFO - Blockchain integrity verified
+2026-06-02 15:12:40,792 - INFO - Transaction added: {'sender': 'Alice', 'receiver': 'Bob', 'amount': 1000.0, 'asset_type': 'Gold', 'audit_timestamp': '2026-06-02 15:12:40'}
+2026-06-02 15:12:40,796 - INFO - Blockchain integrity verified
+2026-06-02 15:12:48,489 - INFO - Blockchain integrity verified
+2026-06-02 15:12:50,136 - INFO - Blockchain integrity verified
+2026-06-02 15:12:51,791 - ERROR - Transaction failed: Valid Asset Type violated: Invalid asset type (only Gold, Commodity, Currency allowed)
+2026-06-02 15:12:51,798 - INFO - Blockchain integrity verified
+2026-06-02 15:15:09,495 - INFO - Blockchain integrity verified
+2026-06-02 15:15:12,329 - INFO - Transaction added: {'sender': 'Alice', 'receiver': 'Bob', 'amount': 1000.0, 'asset_type': 'Gold', 'audit_timestamp': '2026-06-02 15:15:12'}
+2026-06-02 15:15:12,332 - INFO - Blockchain integrity verified
+2026-06-02 15:15:45,880 - INFO - Block 1 mined with PoW, hash: 54c17aa1733457793cf7cc7832d890263f81f6d8616ca891a048680b9b1e3831
+2026-06-02 15:15:45,886 - INFO - Blockchain integrity verified
+2026-06-02 15:16:13,890 - INFO - Genesis block created
+2026-06-02 15:16:13,908 - INFO - Blockchain integrity verified
+2026-06-02 15:16:22,586 - INFO - Blockchain integrity verified
+2026-06-02 15:16:25,313 - INFO - Blockchain integrity verified
+2026-06-02 15:16:27,898 - INFO - Blockchain integrity verified
+2026-06-02 15:16:30,245 - INFO - Transaction added: {'sender': 'Alice', 'receiver': 'Bob', 'amount': 1000.0, 'asset_type': 'Gold', 'audit_timestamp': '2026-06-02 15:16:30'}
+2026-06-02 15:16:30,248 - INFO - Blockchain integrity verified
+2026-06-02 15:16:44,501 - INFO - Block 1 mined with PoW, hash: 6f8f6eda12302354b85cf25b52429ee7ffdbbf3157b139e21e59385f6affe4dd
+2026-06-02 15:16:44,505 - INFO - Blockchain integrity verified
